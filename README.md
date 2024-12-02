@@ -10,4 +10,4 @@ Dynamic Updates: Reactively displays the updated count.
 
 # Live Demo
 
-**[](https://counter-appreact.netlify.app/)**
+(https://counter-appreact.netlify.app/)
